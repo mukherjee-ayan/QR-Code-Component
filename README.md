@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-/screenshot.png
+![QR Code Component](./screenshot.png?raw=true "QR Code Component")
 
 ### Links
 
