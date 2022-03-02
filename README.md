@@ -4,13 +4,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- #overview
-  - #screenshot
-  - #links
-- #my-process
-  - #built-with
-  - #useful-resources
-- #author
+- overview
+  - screenshot
+  - links
+- my-process
+  - built-with
+  - useful-resources
+- author
 
 
 ## Overview
